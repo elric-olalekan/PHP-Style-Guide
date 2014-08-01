@@ -1,6 +1,6 @@
 ![Devbridge Group](http://brillstreet.com/sites/default/files/Devbridge_Group_Logos_V5_resized.png)
-#PHP Coding Standarts
-* * *
+#PHP Coding Standards
+
 These are the guidelines that we follow when working on PHP projects at [Devbridge Group](http://www.devbridge.com). We are folowing stadarts defined by Framework Interoperability Group - [PHP-FIG](http://www.php-fig.org). The group was bootstrapped by a number of framework developers at php|tek in 2009. Each voting member of the group represents a popular PHP framework (or similar) project. They are working together to create easily reusable code that can be used across other projects. 
 
 ##PSR standards
